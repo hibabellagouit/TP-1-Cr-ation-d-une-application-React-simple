@@ -1,0 +1,16 @@
+# Node
+node_modules/
+build/
+dist/
+
+# IDE JetBrains (IntelliJ, WebStorm)
+.idea/
+
+# VS et autres environnements
+.vs/
+.vscode/
+
+# Logs et système
+.DS_Store
+Thumbs.db
+npm-debug.log*
